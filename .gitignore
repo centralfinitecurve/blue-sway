@@ -1,3 +1,4 @@
 cosign.key
+cosign.pub.old
 cosign.private
 /Containerfile
